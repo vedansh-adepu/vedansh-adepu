@@ -1,9 +1,9 @@
 ### Vedansh Adepu
 
-Backend and ML engineer. I build high-throughput data systems
-and the AI services - increasingly, agents - that run on top of them.
+ML infrastructure engineer. I build and run production LLM serving, evaluation and reliability tooling. Python, Go, C++.
 
-Lately: LLM agents (tool-use, planning, evals), RAG systems, and the data
-pipelines underneath. Mostly Python, C++ and Java.
+**Featured**
+- [agentrec](https://github.com/vedansh-adepu/agentrec): deterministic record/replay for AI-agent runs (OpenAI/Anthropic SDKs + tool calls), with occurrence-correct replay and redaction.
+- [kvbench](https://github.com/vedansh-adepu/kvbench): C++20 LLM inference capacity planner with vLLM-style KV-cache budgeting and continuous-batching simulation.
 
-- vedanshadepu.dev@gmail.com
+- adepu.vedansh99@gmail.com
